@@ -1,2 +1,2 @@
-import uuid
-s = "CIUAPIDSIUAHDIAHSDIASIDHIUASDHSAIDHSAD"
+from uuid import uuid4
+s = "HSDIASIDHIUASDHSAIDHSADadsasdasda"
